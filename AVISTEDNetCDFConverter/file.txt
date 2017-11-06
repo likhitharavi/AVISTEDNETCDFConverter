@@ -1,0 +1,9 @@
+2017-10-25 13:24:14.4193|INFO|AVISTEDNetCDFConverter.Controllers.ValuesController|Entered AVISTEDNetCDFConverter GET()
+2017-10-25 13:24:15.9194|ERROR|AVISTEDNetCDFConverter.Controllers.ValuesController|AVISTEDNetCDFConverter:Failed with exception Object reference not set to an instance of an object.
+2017-10-25 13:29:42.4389|INFO|AVISTEDNetCDFConverter.Controllers.ValuesController|Entered AVISTEDNetCDFConverter GET()
+2017-10-25 13:29:43.4060|ERROR|AVISTEDNetCDFConverter.Controllers.ValuesController|AVISTEDNetCDFConverter:Failed with exception Object reference not set to an instance of an object.
+2017-10-25 13:30:24.6107|INFO|AVISTEDNetCDFConverter.Controllers.ValuesController|Entered AVISTEDNetCDFConverter GET()
+2017-10-25 13:31:40.1473|ERROR|AVISTEDNetCDFConverter.Controllers.ValuesController|AVISTEDNetCDFConverter:Failed with exception Object reference not set to an instance of an object.
+2017-10-25 13:31:52.5691|INFO|AVISTEDNetCDFConverter.Controllers.ValuesController|Entered AVISTEDNetCDFConverter GET()
+2017-10-25 13:33:14.6745|ERROR|AVISTEDNetCDFConverter.Controllers.ValuesController|AVISTEDNetCDFConverter:Failed with exception Object reference not set to an instance of an object.
+2017-10-25 13:57:23.2005|INFO|AVISTEDNetCDFConverter.Controllers.ValuesController|Entered AVISTEDNetCDFConverter GET()
